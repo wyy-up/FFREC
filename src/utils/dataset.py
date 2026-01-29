@@ -1,7 +1,6 @@
 # coding: utf-8
-# @email: enoche.chow@gmail.com
 #
-# updated: Mar. 25, 2022
+# updated: Mar. 25, 2025
 # Filled non-existing raw features with non-zero after encoded from encoders
 
 """
